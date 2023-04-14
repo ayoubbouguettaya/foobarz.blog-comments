@@ -1,2 +1,2 @@
 # foobarz.blog-comments
-foobarz.blog coments manager
+foobarz.blog comments manager
